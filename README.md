@@ -3,7 +3,9 @@
 This project demonstrates a basic machine learning model that predicts the biological activity of small molecules using PyTorch. It’s based on converting SMILES strings into molecular fingerprints and training a binary classifier.
 
 ##  What is QSAR?
-QSAR stands for *Quantitative Structure–Activity Relationship*. It uses the chemical structure of molecules to predict biological activity — a common task in drug discovery and computational chemistry.
+QSAR stands for *Quantitative Structure Activity Relationship*. It uses 
+the chemical structure of molecules to predict biological activity.This is 
+a common task in drug discovery and computational chemistry.
 
 ##  Technologies
 - Python
