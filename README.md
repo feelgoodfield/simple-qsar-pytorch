@@ -45,3 +45,13 @@ A simple feedforward neural network is trained to predict activity (active vs in
 
 ---
 
+## Notes and Improvements
+
+Right now, the model gets 0.00 test accuracy. This is expected because the 
+dataset is very small and the model is basic. Here are some ways to 
+improve it:
+
+- Use more training data  
+- Adjust the model settings (hyperparameters)  
+- Try different ways of turning molecules into numbers (fingerprints)  
+- Use better evaluation methods for unbalanced data
