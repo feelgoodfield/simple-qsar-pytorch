@@ -24,7 +24,7 @@ a common task in drug discovery and computational chemistry.
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/your-username/simple-qsar-pytorch.git
+git clone https://github.com/feelgoodfield/simple-qsar-pytorch.git
 cd simple-qsar-pytorch
 ```
 
